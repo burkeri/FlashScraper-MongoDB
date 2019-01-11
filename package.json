@@ -1,0 +1,36 @@
+{
+  "name": "flashscraper-mongodb",
+  "version": "1.0.0",
+  "description": "Package with dependencies for scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burkeri/FlashScraper-MongoDB.git"
+  },
+  "keywords": [
+    "express",
+    "handlebars",
+    "mongodb",
+    "mongoose",
+    "cheerie",
+    "axios",
+    "javascript",
+    "scraper"
+  ],
+  "author": "rb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burkeri/FlashScraper-MongoDB/issues"
+  },
+  "homepage": "https://github.com/burkeri/FlashScraper-MongoDB#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.2"
+  }
+}
